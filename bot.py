@@ -16,7 +16,7 @@ GUILD_ID = os.getenv("GUILD_ID")
 DB_FILE = "tierbot.db"
 
 TIERS = ["HT1", "LT1", "HT2", "LT2", "HT3", "LT3", "HT4", "LT4", "HT5", "LT5", "Unranked"]
-GAMEMODES = ["Sword", "Axe", "Mace", "UHC", "Pot", "NethPot", "Crystal", "SMP", "Bow", "Sumo"]
+GAMEMODES = ["Sword", "Axe", "Mace", "UHC", "Pot", "NethPot", "Crystal", "SMP", "Bow", "Sumo","SpearMace"]
 TIER_SCORES = {
     "HT1": 1, "LT1": 2, "HT2": 3, "LT2": 4, "HT3": 5,
     "LT3": 6, "HT4": 7, "LT4": 8, "HT5": 9, "LT5": 10
